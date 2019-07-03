@@ -8,7 +8,7 @@ from wand.image import Image
 
 # Global variables
 img_path = '/home/user/class/mc906/p4/dataset/organized'
-tgtdim = 150
+tgtdim = 224
 
 groups = ['test', 'training', 'validation']
 emotions = ['angry', 'disgust', 'fear', 'happy', 'sad', 'surprise', 'neutral']
